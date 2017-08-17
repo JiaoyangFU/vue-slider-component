@@ -786,8 +786,8 @@ export default {
 .vue-slider-dot {
 	position: absolute;
 	border-radius: 50%;
-	background-color: #fff;
-	box-shadow: 0.5px 0.5px 2px 1px rgba(0, 0, 0, 0.32);
+	/*background-color: #fff;*/
+	/*box-shadow: 0.5px 0.5px 2px 1px rgba(0, 0, 0, 0.32);*/
 	transition: all 0s;
 	will-change: transform;
 	cursor: pointer;
