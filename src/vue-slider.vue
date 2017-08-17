@@ -562,7 +562,7 @@ export default {
 .vue-slider-wrap .vue-slider {
 	position: relative;
 	display: block;
-	border-radius: 15px;
+	/*border-radius: 15px;*/
 	background-color: #ccc;
 }
 .vue-slider-wrap .vue-slider::after {
@@ -576,7 +576,7 @@ export default {
 }
 .vue-slider-process {
 	position: absolute;
-	border-radius: 15px;
+	/*border-radius: 15px;*/
 	background-color: #3498db;
 	transition: all 0s;
 	z-index: 1;
